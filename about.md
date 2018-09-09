@@ -19,6 +19,10 @@ The [Data Science Specialization](https://www.coursera.org/specialization/jhudat
 - [Kevin Markham](http://www.dataschool.io/)
 - Derek Franks
 - David Hood
+- [Leonard Greski](https://github.com/lgreski)
 - Michael Sachs
 - Allan Inocêncio de Souza Costa
 - [stepds](https://github.com/stepds)
+- Bastiaan Quast
+- [Xing Su](http://sux13.github.io/DataScienceSpCourseNotes/)
+- [Edmund julian Ofilada](https://github.com/DocOfi)

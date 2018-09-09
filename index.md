@@ -4,7 +4,7 @@ layout: page
 
 ## Table of Contents
 
-This is site is meant to serve as a directory for the amazing content the
+This site is meant to serve as a directory for the amazing content the
 community has created around the Data Science Specialization. If you are
 interested in contributing [click here](https://github.com/DataScienceSpecialization/DataScienceSpecialization.github.io#contributing).
 
@@ -17,6 +17,7 @@ interested in contributing [click here](https://github.com/DataScienceSpecializa
 7. [Regression Models](/regmod/)
 8. [Practical Machine Learning](/pml/)
 9. [Developing Data Products](/ddp/)
+10. [Capstone](/capstone/)
 
 - [Other Resources](/other/)
-- [Curated Knowledge](/curated/)
+- [Curated Pages](/curated/)
